@@ -1,7 +1,8 @@
+##live preview:https://shashank1332003.github.io/html_css_DarkJoe_project_shashank/
 ##live preview: https://github.com/shashank1332003/html_css_DarkJoe_project_shashank/edit/master/README.md
 #DarkJoe
 
-A Multipurpose One page Responsive Template for agencies or personal site.
+A Multipurpose One page Responsive Templviate for agencies or personal site.
 
 #Features
 
